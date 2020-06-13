@@ -1,0 +1,22 @@
+[user]
+  name = __username__
+  email = __email__@__email__
+
+[core]
+  editor = vi
+
+[color]
+  ui = true
+
+[alias]
+  s   = status
+  st  = stash
+  a   = add
+  cm  = commit -m
+  co  = checkout
+  b   = branch
+  p   = push
+  cp  = cherry-pick
+  rb  = rebase
+  df  = diff
+  log1 = log --oneline

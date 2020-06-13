@@ -1,0 +1,23 @@
+# All Ignore
+*
+*/
+
+# Add All Dir 2 Whitelist 
+!*/
+
+# Individual Ignore
+.cache/
+.cpan/
+.linuxbrew/
+.local/
+.nvm/
+.zplug/
+.zprezto/
+.zsh/
+
+# Individual Permit
+!.gitignore
+!.gitconfig
+!.vim/*
+!README.md
+!.zshrc.old
