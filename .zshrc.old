@@ -4,8 +4,8 @@
 # Authors:
 #   Sorin Ionescu <sorin.ionescu@gmail.com>
 
-# Homebrew Path
-export PATH="/home/user/.linuxbrew/bin:$PATH"
+# (WSL)Homebrew Path
+export PATH="~/.linuxbrew/bin:$PATH"
 
 # Source Prezto.
 if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
